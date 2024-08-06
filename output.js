@@ -1,6 +1,6 @@
 /*
  * 饿了么修改版
- * 一天1200-1900豆
+ * 一天1200-1900
  * 拉裤地址：ql repo https://github.com/BIGOSTK/elm.git "^ele" "" "USER|common|ql|sendNotify1"
  * 会借走你的天天抽奖助力，介意勿用
  * 一键获取ck软件:https://www.123pan.com/s/uDzcVv-fftQA.html，提取码:bdwl
